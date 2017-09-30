@@ -48,7 +48,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 # Using TypeScript
 
 ## Install dependencies
-In this guide, I will use Sass as Css Pre-Procesor
+In this guide, I will use Sass as Css Pre-Procesor`
 ```bash
 npm i -D typescript ts-loader vue-class-component sass-loader node-sass style-loader
 ```
