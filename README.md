@@ -1,4 +1,4 @@
-# sassy-vue2
+# vue2-typescript
 
 > A Vue.js project
 
