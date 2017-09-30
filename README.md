@@ -104,7 +104,7 @@ module: {
 
 ## Component Declaration
 
-Insider a *.vue files
+Inside a .vue file
 
 ```typescript
 <script lang="ts"> // Declare lang
@@ -168,3 +168,7 @@ They will be unique, and scoped to the component, where the style is been used.
   }
   </style>
 ```
+
+# References:
+- [Vue Documentation](https://vuejs.org/)
+- [Vue + TypeScript - egghead.io](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)
